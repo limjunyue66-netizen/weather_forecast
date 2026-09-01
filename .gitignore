@@ -1,0 +1,20 @@
+# Cache files
+cache/*
+!cache/.gitkeep
+
+# Local config (contains database password)
+includes/config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment overrides
+.env
+.env.*

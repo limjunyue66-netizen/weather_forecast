@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Weather forecast screen">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="60%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#bg2)"/>
+  <circle cx="780" cy="70" r="45" fill="#fbbf24"/>
+  <rect x="30" y="70" width="840" height="200" rx="18" fill="white" opacity="0.93"/>
+  <text x="55" y="110" fill="#0c4a6e" font-family="Arial,sans-serif" font-size="26" font-weight="bold">Kuala Lumpur</text>
+  <text x="55" y="135" fill="#64748b" font-family="Arial,sans-serif" font-size="14">Malaysia</text>
+  <text x="400" y="175" text-anchor="middle" fill="#0c4a6e" font-family="Arial,sans-serif" font-size="64" font-weight="bold">32°</text>
+  <text x="400" y="205" text-anchor="middle" fill="#64748b" font-family="Arial,sans-serif" font-size="16">Partly Cloudy</text>
+  <rect x="55" y="220" width="120" height="40" rx="10" fill="#e0f2fe"/>
+  <rect x="190" y="220" width="120" height="40" rx="10" fill="#e0f2fe"/>
+  <rect x="325" y="220" width="120" height="40" rx="10" fill="#e0f2fe"/>
+  <rect x="30" y="290" width="840" height="120" rx="18" fill="white" opacity="0.93"/>
+  <text x="55" y="320" fill="#0c4a6e" font-family="Arial,sans-serif" font-size="15" font-weight="bold">Hourly Forecast</text>
+  <rect x="55" y="335" width="70" height="60" rx="10" fill="#f0f9ff"/>
+  <rect x="140" y="335" width="70" height="60" rx="10" fill="#f0f9ff"/>
+  <rect x="225" y="335" width="70" height="60" rx="10" fill="#f0f9ff"/>
+  <rect x="310" y="335" width="70" height="60" rx="10" fill="#f0f9ff"/>
+  <rect x="30" y="425" width="840" height="110" rx="18" fill="white" opacity="0.93"/>
+  <text x="55" y="455" fill="#0c4a6e" font-family="Arial,sans-serif" font-size="15" font-weight="bold">7-Day Forecast</text>
+  <rect x="55" y="470" width="780" height="28" rx="8" fill="#f0f9ff"/>
+  <rect x="55" y="505" width="780" height="28" rx="8" fill="#f0f9ff"/>
+</svg>

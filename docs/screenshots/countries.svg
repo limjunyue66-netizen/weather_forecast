@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Countries browser screen">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c4a6e"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#bg3)"/>
+  <rect x="30" y="60" width="840" height="470" rx="18" fill="white" opacity="0.93"/>
+  <text x="55" y="100" fill="#0c4a6e" font-family="Arial,sans-serif" font-size="18" font-weight="bold">Browse Countries AZ</text>
+  <g fill="#e0f2fe" stroke="#38bdf8" stroke-width="1">
+    <rect x="55" y="115" width="32" height="32" rx="8"/><rect x="92" y="115" width="32" height="32" rx="8"/>
+    <rect x="129" y="115" width="32" height="32" rx="8"/><rect x="166" y="115" width="32" height="32" rx="8" fill="#0369a1"/>
+    <rect x="203" y="115" width="32" height="32" rx="8"/><rect x="240" y="115" width="32" height="32" rx="8"/>
+    <text x="178" y="137" fill="white" font-family="Arial,sans-serif" font-size="14" font-weight="bold">M</text>
+  </g>
+  <rect x="55" y="165" width="250" height="65" rx="12" fill="#f0f9ff"/>
+  <rect x="65" y="180" width="40" height="28" rx="4" fill="#dc2626"/>
+  <rect x="65" y="188" width="40" height="7" fill="#fff"/>
+  <rect x="65" y="201" width="40" height="7" fill="#1d4ed8"/>
+  <text x="120" y="195" fill="#0c4a6e" font-family="Arial,sans-serif" font-size="14" font-weight="bold">Malaysia</text>
+  <text x="120" y="215" fill="#64748b" font-family="Arial,sans-serif" font-size="11">Capital: Kuala Lumpur</text>
+  <rect x="320" y="165" width="250" height="65" rx="12" fill="#f0f9ff"/>
+  <rect x="330" y="180" width="40" height="28" rx="4" fill="#dc2626"/>
+  <rect x="330" y="188" width="40" height="14" fill="#fff"/>
+  <rect x="330" y="202" width="40" height="6" fill="#1d4ed8"/>
+  <text x="385" y="195" fill="#0c4a6e" font-family="Arial,sans-serif" font-size="14" font-weight="bold">Mexico</text>
+  <text x="385" y="215" fill="#64748b" font-family="Arial,sans-serif" font-size="11">Capital: Mexico City</text>
+  <rect x="55" y="245" width="250" height="65" rx="12" fill="#f0f9ff"/>
+  <rect x="65" y="260" width="40" height="28" rx="4" fill="#1d4ed8"/>
+  <text x="120" y="275" fill="#0c4a6e" font-family="Arial,sans-serif" font-size="14" font-weight="bold">Morocco</text>
+  <text x="120" y="295" fill="#64748b" font-family="Arial,sans-serif" font-size="11">Capital: Rabat</text>
+</svg>
