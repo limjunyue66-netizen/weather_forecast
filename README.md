@@ -10,13 +10,15 @@ A modern, responsive weather forecast website built with PHP, MySQL, HTML5, CSS3
 
 | Home | Weather Forecast |
 |------|------------------|
-| ![Home screen](docs/screenshots/home.svg) | ![Weather screen](docs/screenshots/weather.svg) |
+| ![Home screen](docs/screenshots/home.png) | ![Weather screen](docs/screenshots/weather.png) |
 
-| Countries A–Z | Favorites |
-|---------------|-----------|
-| ![Countries browser](docs/screenshots/countries.svg) | ![Favorites list](docs/screenshots/favorites.svg) |
+| City Search | Countries A–Z |
+|-------------|---------------|
+| ![Search suggestions](docs/screenshots/search.png) | ![Countries browser](docs/screenshots/countries.png) |
 
-> Replace SVG previews in `docs/screenshots/` with your own PNG screenshots for a polished README. See [docs/screenshots/README.md](docs/screenshots/README.md).
+| Favorites | Search History |
+|-----------|----------------|
+| ![Favorites list](docs/screenshots/favorites.png) | ![Search history](docs/screenshots/history.png) |
 
 ## Features
 

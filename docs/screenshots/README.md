@@ -1,19 +1,24 @@
 # Screenshots
 
-Preview images for the SkySoft Weather project README and documentation.
+Real screenshots captured from the running SkySoft Weather application.
 
-| File | Description |
-|------|-------------|
+| File | Page |
+|------|------|
 | `home.png` | Welcome / home screen |
-| `weather.png` | Current weather with hourly & 7-day forecast |
-| `countries.png` | Country A–Z browser with flag icons |
-| `favorites.png` | Favorites and search history |
+| `search.png` | City search with suggestions |
+| `weather.png` | Current weather, hourly & 7-day forecast |
+| `countries.png` | Country A–Z browser with flags |
+| `favorites.png` | Favorite cities |
+| `history.png` | Recent search history |
 
-## Replace with your own screenshots
+## Re-capture screenshots
 
-1. Run the project: `http://localhost/weather_forecast_system/`
-2. Take screenshots at **1280×800** or similar resolution
-3. Save as PNG in this folder (same filenames above)
-4. Update the main `README.md` if you add more images
+Requires Node.js and a running XAMPP server:
 
-Recommended tools: Windows Snipping Tool, ShareX, or browser DevTools (responsive mode).
+```bash
+npm install playwright --no-save
+npx playwright install chromium
+node scripts/capture-screenshots.mjs
+```
+
+Screenshots are saved to this folder at **1280×800** resolution.
