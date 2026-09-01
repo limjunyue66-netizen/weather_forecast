@@ -3,7 +3,7 @@
  * SkySoft Weather - Cache Helper
  */
 
-require_once __DIR__ . '/config.php';
+require_once __DIR__ . '/load_config.php';
 
 /**
  * Get cached data by key.

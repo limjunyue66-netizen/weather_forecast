@@ -10,7 +10,7 @@
  *   POST action=remove_favorite   - Remove favorite
  */
 
-require_once dirname(__DIR__) . '/includes/config.php';
+require_once dirname(__DIR__) . '/includes/load_config.php';
 require_once dirname(__DIR__) . '/includes/db.php';
 require_once dirname(__DIR__) . '/includes/helpers.php';
 

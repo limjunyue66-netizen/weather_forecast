@@ -3,7 +3,7 @@
  * SkySoft Weather - Database Connection (PDO)
  */
 
-require_once __DIR__ . '/config.php';
+require_once __DIR__ . '/load_config.php';
 
 /**
  * Get PDO database connection.

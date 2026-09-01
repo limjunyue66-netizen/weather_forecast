@@ -4,7 +4,7 @@
  * GET ?letter=A  (optional, filter by first letter)
  */
 
-require_once dirname(__DIR__) . '/includes/config.php';
+require_once dirname(__DIR__) . '/includes/load_config.php';
 require_once dirname(__DIR__) . '/includes/helpers.php';
 
 $countriesFile = dirname(__DIR__) . '/assets/data/countries.json';

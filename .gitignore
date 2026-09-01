@@ -2,8 +2,12 @@
 cache/*
 !cache/.gitkeep
 
-# Local config (contains database password)
+# Local config (contains database password — never commit)
 includes/config.php
+
+# Logs and local overrides
+*.log
+php_errors.log
 
 # OS files
 .DS_Store

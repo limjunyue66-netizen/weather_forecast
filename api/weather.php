@@ -4,7 +4,7 @@
  * GET ?lat=..&lon=..&timezone=..&city=..&country=..&country_code=..
  */
 
-require_once dirname(__DIR__) . '/includes/config.php';
+require_once dirname(__DIR__) . '/includes/load_config.php';
 require_once dirname(__DIR__) . '/includes/helpers.php';
 
 $lat  = isset($_GET['lat']) ? floatval($_GET['lat']) : null;

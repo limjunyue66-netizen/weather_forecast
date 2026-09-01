@@ -4,7 +4,7 @@
  * GET ?q=search_term
  */
 
-require_once dirname(__DIR__) . '/includes/config.php';
+require_once dirname(__DIR__) . '/includes/load_config.php';
 require_once dirname(__DIR__) . '/includes/helpers.php';
 
 $query = isset($_GET['q']) ? sanitizeString($_GET['q'], 100) : '';
